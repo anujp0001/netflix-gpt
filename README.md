@@ -69,7 +69,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-https://github.com/gyandeeparyan/netflix-gpt
+https://github.com/anujp0001/netflix-gpt
 ```
 
 Go to the project directory
