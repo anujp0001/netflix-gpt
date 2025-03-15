@@ -100,7 +100,7 @@ firebase deploy
 
 ## :wave: Contributing
 
-<a href="https://github.com/gyandeeparyan/netflix-gpt/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+<a href="https://github.com/anujp0001/netflix-gpt/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
 
 Contributions are always welcome!
 
@@ -108,10 +108,10 @@ see `contributing.md` for ways to get started
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/gyandeeparyan/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/anujp0001/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
 
 ## :handshake: Contact
 
-Gyandeep Aryan - - gyandeeparyan.dev@gmail.com
+Anuj pal--anujpal8303@gmail.com
 
-Project Link: [https://github.com/gyandeeparyan/netflix-gpt](https://github.com/gyandeeparyan/netflix-gpt)
+Project Link: [https://github.com/anujp0001/netflix-gpt](https://github.com/anujp0001/netflix-gpt)
